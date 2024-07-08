@@ -68,7 +68,7 @@ body{
     margin: 0 auto;
     width: 100vw;
     height: 100vh;
-    grid-template-rows: 1fr 120px;
+    grid-template-rows: 1fr 160px;
     position: relative;
 }
 
